@@ -12,7 +12,7 @@ public class CreditProcess {
 
 	private final static String ACCOOUNT_SID ="AC7efdd0d93deb156b654f7cfa119aa699";
 	private final static String AUTH_TOKEN ="9bbb67de7fe5f227538d9054d8e15aea";
-	
+	//aycem burda
 	public static int myProcess(Users user) {
 		
 		UserRepository userRe = UsersResource.userRepository;
